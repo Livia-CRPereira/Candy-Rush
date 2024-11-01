@@ -27,3 +27,6 @@ O objetivo desse projeto foi desenvolver um jogo simples e divertido, além de o
 
 | [<img src="https://i.imgur.com/OO9DSbF.jpg" width=115><br><sub>Lívia Caroline</sub>](https://github.com/livinha11) |
 | :---: |
+
+# 🧑‍🤝‍🧑 Outros Autores:
+#### Arthur Brasil, Sophia Almeida, Raphaela Camile, Rebeca Sousa e Kézia Rodrigues
